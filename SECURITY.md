@@ -1,0 +1,1 @@
+Report security issues using GitHub private vulnerability reporting on the affected repo.
